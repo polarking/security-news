@@ -1,1 +1,11 @@
-# security-news
+# Security News
+* [Secure List](https://github.com/polarking/security-news)
+* [The Hacker News](http://thehackernews.com/)
+* [Hacker News](https://news.ycombinator.com/)
+* [Slashdot with Security Filter](https://slashdot.org/index2.pl?fhfilter=security) (Does not work on mobile)
+* [Reddit /r/netsec](https://www.reddit.com/r/netsec)
+* [IT Security Guru](http://www.itsecurityguru.org/)
+* [ThreatPost](https://threatpost.com/)
+* [CERT-EU Current top 10 stories](https://cert.europa.eu/cert/clusteredition/en/latest.html)
+* [Krebs on Security](http://krebsonsecurity.com/)
+* [Schneier on Security](https://www.schneier.com/)
