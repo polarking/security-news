@@ -1,5 +1,5 @@
 # Security News
-* [Secure List](https://github.com/polarking/security-news)
+* [Secure List](https://securelist.com/)
 * [The Hacker News](http://thehackernews.com/)
 * [Hacker News](https://news.ycombinator.com/)
 * [Slashdot with Security Filter](https://slashdot.org/index2.pl?fhfilter=security) (Does not work on mobile)
